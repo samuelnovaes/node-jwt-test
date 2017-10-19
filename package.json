@@ -1,0 +1,16 @@
+{
+	"name": "teste",
+	"version": "1.0.0",
+	"description": "teste com jwt",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Samuel Novaes",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2",
+		"jwt-simple": "^0.5.1"
+	}
+}
