@@ -11,7 +11,7 @@ npm start
 - **login:** aaa, **password:** aaa
 - **login:** bbb, **password:** bbb
 
-# Routes (method route body headers)
+# Routes
 
 - **method:** POST
 - **url:** /login
